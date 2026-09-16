@@ -2,4 +2,4 @@
 This repo will contain the current LINK
 
 
-# http://unpkg.com/pippypoo81/ideal-carnival@1.0.0/index.html 
+# https://sites.google.com/students.wcpss.net/lotusimprove/manage 
